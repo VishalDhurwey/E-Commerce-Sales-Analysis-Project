@@ -1,8 +1,5 @@
 # 🛒 USA E-Commerce Sales Analysis Dashboard (Excel Project)
 
-![Sales Dashboard](Dasboard1.png)
-![Profit & Discount Dashboard](Dashboard2.png)
-
 ## 📌 Project Overview
 
 This Excel-based analytics project provides deep insights into the sales performance and profitability of an e-commerce company in the USA. It leverages Excel features like Power Query, Power Pivot, Data Modeling, DAX, and Pivot Charts to build interactive dashboards.
@@ -26,6 +23,8 @@ To analyze USA-based e-commerce sales data and uncover insights that help manage
 
 ## 📊 Key Features
 
+![Sales Dashboard](Dasboard1.png)
+
 ### 🔹 Dashboard 1: Sales Overview
 - **KPIs**: Total Sales, Total Orders, Total Quantity, Avg. Order Value
 - **Charts**:
@@ -34,6 +33,8 @@ To analyze USA-based e-commerce sales data and uncover insights that help manage
   - Sales by Customer Segment (Bar Chart)
   - Sales by Region (Bar Chart)
 - **Slicers**: Segment, Category, Region
+
+![Profit & Discount Dashboard](Dashboard2.png)
 
 ### 🔹 Dashboard 2: Profit & Discount Overview
 - **KPIs**: Total Profit, Total Orders, Avg. Discount %, Avg. Profit per Order
