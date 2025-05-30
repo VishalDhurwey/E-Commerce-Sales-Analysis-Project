@@ -1,6 +1,6 @@
 # 🛒 USA E-Commerce Sales Analysis Dashboard (Excel Project)
 
-![Sales Dashboard](Dashboard1.png)
+![Sales Dashboard](Dasboard1.png)
 ![Profit & Discount Dashboard](Dashboard2.png)
 
 ## 📌 Project Overview
